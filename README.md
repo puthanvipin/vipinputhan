@@ -1,8 +1,8 @@
 
 ### Hi there 👋, my name is Vipin
-Highly skilled Data Test Automation professional with over 10 years of experience in data quality assurance and software testing. Proven ability to design, execute, and automate testing across the entire SDLC (Software Development Life Cycle) utilizing Agile and Waterfall methodologies. Expertise in End-to-End DWBI project testing and experience working in GCP, AWS, and Azure cloud environments. Proficient in SQL and Python scripting for data test automation.
+Highly skilled Data Test Automation professional with over 10+ years of experience in data quality assurance and software testing. Proven ability to design, execute, and automate testing across the entire SDLC (Software Development Life Cycle) utilizing Agile and Waterfall methodologies. Expertise in End-to-End DWBI project testing and experience working in GCP, AWS, and Azure cloud environments. Proficient in SQL and Python scripting for data test automation.
 
-Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS / SNOWFLAKE / DBT/ DOCKER / KUBERNETES / GITHUB ACTION / AI / GITOPS(ARGO CD)
+Skills: AWS / AZURE / GCP / SQL / PYTHON / DATABRICKS / SNOWFLAKE / DBT/ DOCKER / KUBERNETES / GITHUB ACTION / AI / GITOPS(ARGO CD) / Fabric / Power BI / Azure Synapse Analytics
 
 🔭 My Certifications:<br>
 <a href="https://learn.microsoft.com/en-us/users/vipin-9585/credentials/355d1ffdab95c934">Fabric Analytics Engineer Associate[View credentials]</a><br>
